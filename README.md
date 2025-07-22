@@ -66,5 +66,4 @@ Additional evaluation metrics such as precision, recall, and F1-score can be add
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   https://github.com/Animichael/Loan-Approval-model.git
